@@ -1,0 +1,6 @@
+https://developers.themoviedb.org/3/movies/get-movie-details
+
+https://rapidapi.com/category/Food
+https://rapidapi.com/spoonacular/api/recipe-food-nutrition/details
+
+https://realpython.com/python-pyqt-layout/
